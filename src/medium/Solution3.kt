@@ -1,7 +1,9 @@
 package medium
 
-class Solution3 {
-    fun test() {
+import Solution
+
+class Solution3 : Solution() {
+    override fun test() {
         val input1 = "abcabcbb"
         val input2 = "bbbbb"
         val input3 = "pwwkew"

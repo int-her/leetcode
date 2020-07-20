@@ -1,7 +1,9 @@
 package hard
 
-class Solution4 {
-    fun test() {
+import Solution
+
+class Solution4 : Solution() {
+    override fun test() {
         val nums1 = intArrayOf()
         val nums2 = intArrayOf(1, 2, 4, 8, 9, 10)
         val nums3 = intArrayOf(4, 5)

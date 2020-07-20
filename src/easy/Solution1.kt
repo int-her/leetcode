@@ -1,9 +1,10 @@
 package easy
 
+import Solution
 import java.lang.Exception
 
-class Solution1 {
-    fun test() {
+class Solution1 : Solution() {
+    override fun test() {
         val nums: IntArray = intArrayOf(2, 7, 11, 15)
         val target = 9
         print(twoSum(nums, target).joinToString())

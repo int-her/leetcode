@@ -1,7 +1,9 @@
 package medium
 
-class Solution5 {
-    fun test() {
+import Solution
+
+class Solution5 : Solution() {
+    override fun test() {
         println(longestPalindrome("babad"))
         println(longestPalindrome("cbbd"))
     }

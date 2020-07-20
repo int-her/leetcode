@@ -1,5 +1,8 @@
 package medium
 
+import ListNode
+import Solution
+
 /**
  * Example:
  * var li = ListNode(5)
@@ -9,22 +12,8 @@ package medium
  *     var next: ListNode? = null
  * }
  */
-class ListNode(var `val`: Int) {
-    var next: ListNode? = null
-
-    override fun toString(): String {
-        var temp: ListNode? = this
-        var result = ""
-        while (temp != null) {
-            result += temp.`val`
-            temp = temp.next
-        }
-        return result
-    }
-}
-
-class Solution2 {
-    fun test() {
+class Solution2 : Solution() {
+    override fun test() {
         val l1 = ListNode(2)
         l1.next = ListNode(4)
         l1.next!!.next = ListNode(3)
