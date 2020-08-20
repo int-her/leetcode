@@ -6,7 +6,7 @@ class Main {
     companion object {
         @JvmStatic
         fun main(args: Array<String>) {
-            val solution: Solution = Solution190()
+            val solution: Solution = Solution202()
             solution.test()
         }
     }
