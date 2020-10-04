@@ -1,6 +1,6 @@
 package medium
 
-import Solution
+import main.Solution
 
 class Solution17 : Solution() {
     override fun test() {

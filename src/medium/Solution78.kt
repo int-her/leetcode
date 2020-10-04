@@ -1,6 +1,6 @@
 package medium
 
-import Solution
+import main.Solution
 
 class Solution78 : Solution() {
     lateinit var dp: MutableList<List<List<Int>>?>

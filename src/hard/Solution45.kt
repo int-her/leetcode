@@ -1,6 +1,6 @@
 package hard
 
-import Solution
+import main.Solution
 
 class Solution45 : Solution() {
     override fun test() {

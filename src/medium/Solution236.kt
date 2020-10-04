@@ -1,13 +1,13 @@
 package medium
 
-import Solution
-import TreeNode
+import main.Solution
+import main.TreeNode
 
 /**
  * Definition for a binary tree node.
- * class TreeNode(var `val`: Int = 0) {
- *     var left: TreeNode? = null
- *     var right: TreeNode? = null
+ * class main.TreeNode(var `val`: Int = 0) {
+ *     var left: main.TreeNode? = null
+ *     var right: main.TreeNode? = null
  * }
  */
 

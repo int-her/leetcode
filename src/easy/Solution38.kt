@@ -1,6 +1,6 @@
 package easy
 
-import Solution
+import main.Solution
 
 class Solution38 : Solution() {
     override fun test() {

@@ -1,6 +1,6 @@
 package medium
 
-import Solution
+import main.Solution
 
 class Solution91 : Solution() {
     val dp = mutableMapOf<String, Int>()

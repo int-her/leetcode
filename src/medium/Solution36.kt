@@ -1,7 +1,6 @@
 package medium
 
-import Solution
-import kotlin.math.pow
+import main.Solution
 
 class Solution36 : Solution() {
     override fun test() {

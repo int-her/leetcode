@@ -1,14 +1,14 @@
 package medium
 
-import Node
-import Solution
+import main.Node
+import main.Solution
 
 /**
- * Definition for a Node.
- * class Node(var `val`: Int) {
- *     var left: Node? = null
- *     var right: Node? = null
- *     var next: Node? = null
+ * Definition for a main.Node.
+ * class main.Node(var `val`: Int) {
+ *     var left: main.Node? = null
+ *     var right: main.Node? = null
+ *     var next: main.Node? = null
  * }
  */
 class Solution116 : Solution() {

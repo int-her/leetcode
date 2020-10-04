@@ -1,6 +1,6 @@
 package hard
 
-import Solution
+import main.Solution
 
 class Solution44 : Solution() {
     val dp = mutableSetOf<Pair<String, String>>()

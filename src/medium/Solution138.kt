@@ -1,16 +1,16 @@
 package medium
 
-import Node
-import Solution
+import main.Node
+import main.Solution
 
 /**
  * Example:
- * var ti = Node(5)
+ * var ti = main.Node(5)
  * var v = ti.`val`
- * Definition for a Node.
- * class Node(var `val`: Int) {
- *     var next: Node? = null
- *     var random: Node? = null
+ * Definition for a main.Node.
+ * class main.Node(var `val`: Int) {
+ *     var next: main.Node? = null
+ *     var random: main.Node? = null
  * }
  */
 

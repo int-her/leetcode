@@ -21,8 +21,8 @@ class Solution384(val nums: IntArray) {
 }
 
 /**
- * Your Solution object will be instantiated and called as such:
- * var obj = Solution(nums)
+ * Your main.Solution object will be instantiated and called as such:
+ * var obj = main.Solution(nums)
  * var param_1 = obj.reset()
  * var param_2 = obj.shuffle()
  */

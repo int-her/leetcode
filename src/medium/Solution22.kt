@@ -1,6 +1,6 @@
 package medium
 
-import Solution
+import main.Solution
 
 class Solution22 : Solution() {
     val dp: MutableMap<Int, List<String>> = mutableMapOf(Pair(0, listOf("")), Pair(1, listOf("()")))

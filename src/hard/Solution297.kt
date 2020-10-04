@@ -1,13 +1,13 @@
 package hard
 
-import TreeNode
+import main.TreeNode
 import java.util.*
 
 /**
  * Definition for a binary tree node.
- * class TreeNode(var `val`: Int) {
- *     var left: TreeNode? = null
- *     var right: TreeNode? = null
+ * class main.TreeNode(var `val`: Int) {
+ *     var left: main.TreeNode? = null
+ *     var right: main.TreeNode? = null
  * }
  */
 

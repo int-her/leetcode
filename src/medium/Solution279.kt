@@ -1,6 +1,6 @@
 package medium
 
-import Solution
+import main.Solution
 import kotlin.math.sqrt
 
 class Solution279 : Solution() {

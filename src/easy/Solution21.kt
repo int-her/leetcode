@@ -1,7 +1,7 @@
 package easy
 
-import ListNode
-import Solution
+import main.ListNode
+import main.Solution
 
 class Solution21 : Solution() {
     override fun test() {

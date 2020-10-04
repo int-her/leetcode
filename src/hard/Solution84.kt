@@ -1,6 +1,6 @@
 package hard
 
-import Solution
+import main.Solution
 import java.util.*
 
 class Solution84 : Solution() {

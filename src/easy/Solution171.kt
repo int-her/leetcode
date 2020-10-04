@@ -1,6 +1,6 @@
 package easy
 
-import Solution
+import main.Solution
 import kotlin.math.pow
 
 class Solution171 : Solution() {

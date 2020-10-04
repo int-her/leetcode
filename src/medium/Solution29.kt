@@ -1,6 +1,6 @@
 package medium
 
-import Solution
+import main.Solution
 import kotlin.math.sign
 
 class Solution29 : Solution() {

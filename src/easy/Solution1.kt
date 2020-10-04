@@ -1,6 +1,6 @@
 package easy
 
-import Solution
+import main.Solution
 import java.lang.Exception
 
 class Solution1 : Solution() {

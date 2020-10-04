@@ -1,17 +1,16 @@
 package easy
 
-import Solution
-import TreeNode
-import java.util.*
+import main.Solution
+import main.TreeNode
 
 /**
  * Example:
- * var ti = TreeNode(5)
+ * var ti = main.TreeNode(5)
  * var v = ti.`val`
  * Definition for a binary tree node.
- * class TreeNode(var `val`: Int) {
- *     var left: TreeNode? = null
- *     var right: TreeNode? = null
+ * class main.TreeNode(var `val`: Int) {
+ *     var left: main.TreeNode? = null
+ *     var right: main.TreeNode? = null
  * }
  */
 class Solution543 : Solution() {

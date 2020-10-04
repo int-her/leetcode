@@ -1,6 +1,6 @@
 package easy
 
-import Solution
+import main.Solution
 import java.util.*
 
 class Solution20 : Solution() {

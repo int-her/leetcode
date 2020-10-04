@@ -1,3 +1,5 @@
+package main
+
 import easy.*
 import medium.*
 import hard.*

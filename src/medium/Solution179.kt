@@ -1,6 +1,6 @@
 package medium
 
-import Solution
+import main.Solution
 
 class Solution179 : Solution() {
     class CustomComparator : Comparator<Int> {

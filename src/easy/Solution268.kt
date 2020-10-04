@@ -1,6 +1,6 @@
 package easy
 
-import Solution
+import main.Solution
 import java.math.BigInteger
 
 class Solution268 : Solution() {
